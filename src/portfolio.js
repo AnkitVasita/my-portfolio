@@ -15,7 +15,7 @@ const greeting = {
     "A passionate Frontend Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs and some other cool libraries and frameworks. I do this because I love the process of turning dreams into reality by converting ideas into code."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1RXMIPTd4iRfpSgJOnFPLmQsHq9kxhzrO/view?usp=sharing",
+    "https://drive.google.com/file/d/163z2Md3ktinAmpVXqAfQ5Is5UXq67tCu/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
